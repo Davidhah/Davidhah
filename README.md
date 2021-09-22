@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Davidhah
 - 👀 I’m interested in making programs with C language and data analysis.
 - 🌱 I’m currently learning Python and C
-- 💞️ I’m looking for collaborate on Github.
+- 💞️ I’m looking for collaborating on Github.
 - 📫 How to reach me ...
 
 <!---
